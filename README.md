@@ -29,10 +29,11 @@ The goal of this project is to end up building an AI-powered **Restaurant Recomm
 ## Modules
 
 ### Module 1: Build a Structured Generative AI Application
-In progress
+In this module, raw and unstructured restaurant data are turned into structured formats using an LLM. The goal of this module is to turn unstructured data into structured JSON objects.
 
 ### Module 2: Design a Multimodal RAG System
-Not completed yet
+This module implements a Multimodal Retrieval-Augmented Generation (RAG) system to build a similarity retrieval index. The system embeds and indexes both textual data and visual components to enable cross-modal semantic search.
+It's possible some of the labs on this module don't work as expected as they were run on IBM Skills Build cloud environment.
 
 ### Module 3: Combine Agents into a Multi-Agent System
 Not completed yet

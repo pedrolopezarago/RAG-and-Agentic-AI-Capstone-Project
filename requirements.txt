@@ -3,3 +3,12 @@ matplotlib==3.10.7
 ibm-watsonx-ai==1.4.7
 ibm-watsonx-ai==1.4.7 
 pydantic==2.12.4
+torch
+torchvision
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-chroma==0.2.6
+sentence-transformers==2.7.0
+transformers
+pillow
+numpy
