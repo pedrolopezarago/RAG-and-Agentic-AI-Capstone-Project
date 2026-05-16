@@ -1,0 +1,516 @@
+[
+    {
+        "reviewId": 900000001,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000001,
+        "title": "A bit pricey, but that greenhouse vibe is so cozy",
+        "text": "The Gilded Artichoke is definitely an upscale splurge. The lavender-rubbed chicken is unique, almost giving me tea-smoked vibes. It's a gorgeous, plant-filled escape from the city, though your wallet will feel it.",
+        "date": "2025-11-15",
+        "rating": 4.5,
+        "language": "en",
+        "images": "['https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/L0HyLOGuAlxwKZaCC8sJdg/Gemini-Generated-Image-523rkg523rkg523r.png','https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/YLCD9AYY985XxvP-K8CRbA/Gemini-Generated-Image-hy4y8why4y8why4y.png']",
+        "image_captions": [
+            {
+                "id": "chatcmpl-8a7418b9e1315aca427218c738b03c1a---eb9eb553-91c0-47fd-a77c-8f5566153a9d",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image depicts a serene and inviting restaurant interior, with a large window at the back that allows natural light to pour in and illuminate the space. The room is filled with lush greenery, including hanging plants and potted plants on shelves and the floor, creating a cozy and intimate atmosphere.\n\n**Key Features:**\n\n* **Large Window:** The focal point of the image is the expansive window that dominates the back wall, providing an abundance of natural light.\n* **Greenery:** The room is adorned with various types of plants, adding a touch of warmth and elegance to the space.\n* **Tables and Chairs:** Several round tables are arranged throughout the room, each set with tableware and surrounded by chairs, suggesting a welcoming dining area.\n* **Decorative Elements:** Hanging lights and a rug add to the ambiance, while a counter on the right side of the image implies a bar or service area.\n\n**Overall Impression:**\n\nThe image presents a tranquil and sophisticated dining environment, perfect for a relaxing meal or social gathering. The abundance of natural light and lush greenery creates a sense of calmness, making it an ideal setting for a restaurant or caf\u00e9."
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953832,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:50:35.368Z",
+                "usage": {
+                    "completion_tokens": 235,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2752
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "chatcmpl-e9933ed852b321479826a835331234e2---16293d6d-2130-4e9a-a1a9-cdf4f94a9ded",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image depicts a roasted chicken on a wooden cutting board, surrounded by various accompaniments and garnishes. The chicken is positioned centrally in the image, with its legs tucked under its body and its wings slightly raised. It has been seasoned with herbs and spices, giving it a golden-brown color.\n\nThe cutting board is adorned with three small tartlets, each topped with cherry tomatoes on the vine. A sprig of rosemary and a few dried lavender buds are placed around the base of the chicken, adding a touch of freshness and fragrance to the dish. The cutting board itself is made of light-colored wood and features a smooth, even surface.\n\nIn the background, a stack of white plates can be seen to the left of the cutting board, while a fork and knife are placed to the right. The table on which the cutting board rests appears to be made of rustic wood, adding warmth and character to the scene.\n\nBeyond the table, a large window dominates the background, allowing natural light to pour in and illuminate the scene. The window is framed by a grid of panes, and several potted plants are visible on the sill, bringing a touch of greenery into the space. The overall atmosphere of the image is one of warmth and hospitality, suggesting a cozy and inviting dining setting.\n\n\"Delicious roasted chicken served with fresh tartlets and herbs, perfect for a special occasion or family dinner.\""
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953837,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:50:40.333Z",
+                "usage": {
+                    "completion_tokens": 283,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2800
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "reviewId": 900000002,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000002,
+        "title": "Fresh, cheap, and salty\u2014perfect casual lunch",
+        "text": "Mar de Cortez is the kind of value I live for. The beer-battered snapper is light and crispy, and the octopus ceviche is massive for the price. Love the sun-drenched patio; it's very chill for a beach spot.",
+        "date": "2025-12-05",
+        "rating": 4.2,
+        "language": "en",
+        "images": "['https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/JeJTA3PE5V_Vk5andmieUg/Gemini-Generated-Image-hgh7trhgh7trhgh7.png']",
+        "image_captions": [
+            {
+                "id": "chatcmpl-42340807423ec3a8b7e129f7cc74c1d3---3eac59c4-db03-4caf-8798-68041099164b",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image shows a rooftop patio with several tables and umbrellas, overlooking the ocean. The tables are set with food and condiments, and people are seated at some of them. In the background, there is a pier visible in the distance.\n\n**Caption:** \"Relaxing seaside dining with a view of the pier\""
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953843,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:50:43.932Z",
+                "usage": {
+                    "completion_tokens": 68,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2585
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "reviewId": 900000003,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000003,
+        "title": "Moody and masculine, but definitely a 'special occasion' bill",
+        "text": "Iron & Embers is a total mood. The smell of white oak is incredibly comforting, though it's more industrial-cool than 'cozy.' The dry-aged ribeye is phenomenal, but at these prices, I'm saving it for a birthday.",
+        "date": "2026-01-08",
+        "rating": 4.8,
+        "language": "en",
+        "images": "[]",
+        "image_captions": []
+    },
+    {
+        "reviewId": 900000004,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000004,
+        "title": "The ultimate zen escape for sushi lovers",
+        "text": "Sakura Garden is exactly my speed. It\u2019s quiet, intimate, and the Kaiseki-lite menu feels like a steal for the quality of the bluefin tuna belly. It\u2019s the most peaceful meal I\u2019ve had in Little Tokyo.",
+        "date": "2025-10-20",
+        "rating": 4.9,
+        "language": "en",
+        "images": "['https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/HJVqfj5D-ITtU8Y7A-WGqQ/Gemini-Generated-Image-orm5iorm5iorm5io.png']",
+        "image_captions": [
+            {
+                "id": "chatcmpl-a46ca2646704505c2bc2e374f963d738---6b9152d6-4990-493f-81f1-b2b58cc25eeb",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image depicts a serene and inviting sushi restaurant, with a chef meticulously preparing dishes in the background. The foreground showcases a beautifully presented plate of nigiri sushi, accompanied by a bowl of miso soup, all set against a backdrop of traditional Japanese architecture.\n\n**Caption:** \n\"Savoring serenity at this sushi haven, where every detail is a testament to the art of Japanese cuisine.\""
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953846,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:50:47.104Z",
+                "usage": {
+                    "completion_tokens": 79,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2596
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "reviewId": 900000005,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000005,
+        "title": "Great theater, but a bit loud for my taste",
+        "text": "If you want a 'scene,' Pasta & Prose is it. The Cacio e Pepe in the cheese wheel is a fun show, but it\u2019s more of a party than a cozy dinner. A bit loud and flashy, but the food hits the mark.",
+        "date": "2026-01-14",
+        "rating": 4.3,
+        "language": "en",
+        "images": "['https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/nHp5_Tco1Ip0FPi3QFIAdQ/Gemini-Generated-Image-psiz2kpsiz2kpsiz.png','https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/K__6zT_vWWw3oLmn5OMJww/Gemini-Generated-Image-ttldcbttldcbttld.png']",
+        "image_captions": [
+            {
+                "id": "chatcmpl-828e51bb98f9825c6c65ec9c5b5e4016---a319cbfd-e6e8-47a0-99b5-e35c6ae06a62",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image captures a lively scene at a restaurant, where a chef is dramatically lifting a large serving of spaghetti out of a cheese wheel, surrounded by a group of elegantly dressed women holding champagne flutes and smiling. The atmosphere is festive, with the women gathered around the table, clearly enjoying the presentation. In the background, a bar is visible, stocked with an assortment of bottles, and another waiter is seen holding a glass of champagne, adding to the celebratory ambiance. The caption for this image could be: \"A fun night out with the girls at this trendy restaurant, where the pasta presentation is almost too good to eat.\""
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953849,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:50:50.993Z",
+                "usage": {
+                    "completion_tokens": 128,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2645
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "chatcmpl-a634c80afaf2e16f6d5e419e1447fb6f---f756204c-eca6-40d0-b212-cf0266c7acc4",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image shows a plate of spaghetti cacio e pepe on a marble table, accompanied by a glass of white wine and a large wheel of parmesan cheese. The caption for this image could be: \"Savoring the flavors of Italy with a delicious spaghetti cacio e pepe, paired perfectly with a glass of white wine.\""
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953853,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:50:54.483Z",
+                "usage": {
+                    "completion_tokens": 70,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2587
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "reviewId": 900000006,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000006,
+        "title": "Family vibes and amazing wagyu hummus",
+        "text": "The Golden Hummus feels like eating at a friend's house\u2014if that friend was a master chef. The spiced wagyu topping on the hummus is a brilliant touch. Great portions for the price and super warm service.",
+        "date": "2025-09-30",
+        "rating": 4.6,
+        "language": "en",
+        "images": "[]",
+        "image_captions": []
+    },
+    {
+        "reviewId": 900000007,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000007,
+        "title": "Romantic brick-walled hideaway",
+        "text": "Velvet & Vine is the definition of a cozy wine bar. The duck confit sliders are small but rich\u2014perfect for sharing over a glass of wine. A solid value for a date night in a historic setting.",
+        "date": "2026-01-01",
+        "rating": 4.1,
+        "language": "en",
+        "images": "['https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/uuFnzKU0sEhK5Y45CeqUgg/Gemini-Generated-Image-x3zf4ox3zf4ox3zf.png']",
+        "image_captions": [
+            {
+                "id": "chatcmpl-bacae8e34a06764c004b17ababc55a57---1b009abf-f5f6-4441-b3a5-30a6a0921fbe",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image depicts a wooden table with three pulled pork sandwiches on a wooden board, accompanied by a glass of red wine and a bottle of wine in the background. The sandwiches are garnished with microgreens and appear to be served in a restaurant setting.\n\n**Key Elements:**\n\n*   Three pulled pork sandwiches on a wooden board\n*   A glass of red wine\n*   A bottle of wine in the background\n*   Microgreens garnishing the sandwiches\n*   Restaurant setting with exposed brick walls and string lights\n\n**Relevant Details:**\n\n*   The sandwiches are placed on a wooden board, which is positioned on a wooden table.\n*   The glass of red wine is situated to the right of the sandwiches.\n*   The bottle of wine is visible in the background, although its label is not clearly legible.\n*   The restaurant's atmosphere is cozy, with exposed brick walls and string lights adding to the ambiance.\n\n**Caption Ideas:**\n\n*   \"Savoring the flavor: Pulled pork sandwiches paired with a glass of red wine.\"\n*   \"A match made in heaven: Pulled pork and red wine at [Restaurant Name].\"\n*   \"Indulge in our signature pulled pork sandwiches, perfectly paired with a glass of red wine.\"\n\n**Written Review Context:**\n\nThe written review likely highlights the restaurant's culinary offerings, particularly the pulled pork sandwiches and wine selection. The reviewer may have praised the dish for its flavors and presentation, as well as the cozy atmosphere of the restaurant. \n\n\"Delightful pulled pork sandwiches and a great glass of red wine in a cozy restaurant setting.\""
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953856,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:50:59.994Z",
+                "usage": {
+                    "completion_tokens": 326,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2843
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "reviewId": 900000008,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000008,
+        "title": "Cyberpunk vibes and my favorite Sichuan spice",
+        "text": "Neon Noodle Bar is my absolute go-to. It's fast, affordable, and the cyberpunk neon vibe is just cool. Those numbing Dan Dan noodles are the best value-for-flavor in the SGV. 10/10 fusion energy.",
+        "date": "2025-11-22",
+        "rating": 4.4,
+        "language": "en",
+        "images": "['https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/GV6ucprTw0tKZCXnVqxLAA/Gemini-Generated-Image-twlru3twlru3twlr.png']",
+        "image_captions": [
+            {
+                "id": "chatcmpl-b08e777aec510d1f019cfd32af4bb3fa---4fb50aa3-67c4-4d63-9fa6-f346fd897ebb",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image shows a steaming bowl of noodles and skewers on a table in front of a neon sign that reads \"Neon Noodle Bar\". The caption for this image could be: \"Savoring the flavors at Neon Noodle Bar, where every dish tells a story.\""
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953862,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:51:03.195Z",
+                "usage": {
+                    "completion_tokens": 58,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2575
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "reviewId": 900000009,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000009,
+        "title": "Standard hipster brunch, lovely patio",
+        "text": "The Morning Echo is a solid choice for a lazy Sunday. The ricotta pancakes are light and airy. It's a bit of a wait, but sitting under the umbrellas is very relaxing. Good neighborhood spot.",
+        "date": "2026-01-25",
+        "rating": 4.0,
+        "language": "en",
+        "images": "[]",
+        "image_captions": []
+    },
+    {
+        "reviewId": 900000010,
+        "userId": "USER_FUSION_FINDER_99",
+        "itemId": 1000010,
+        "title": "Incredible soul fusion\u2014get the chicken!",
+        "text": "Sapphire Soul is a masterpiece of fusion. The hot-honey fried chicken and waffles bring that perfect sweet-spicy kick I crave. The room is so vibrant and welcoming. Truly worth every penny.",
+        "date": "2025-12-18",
+        "rating": 4.7,
+        "language": "en",
+        "images": "['https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/5tazDO2ZV_QClnZvrDaT0g/Gemini-Generated-Image-ouedeyouedeyoued.png']",
+        "image_captions": [
+            {
+                "id": "chatcmpl-1f3826074ef1bbddeeed9022658f5aed---cfc6b8fa-d028-48e8-8a43-3f1f4023f785",
+                "object": "chat.completion",
+                "model_id": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct-fp8",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "The image shows a plate of chicken and waffles, a popular brunch dish. The food is presented on a colorful plate with a vibrant design, featuring a stack of golden-brown waffles topped with three pieces of fried chicken. The dish is garnished with edible flowers and herbs, adding a touch of elegance to the presentation. A drizzle of syrup and powdered sugar adds sweetness to the savory flavors of the chicken and waffles.\n\nIn the background, the restaurant's interior is visible, with patrons seated at tables and artwork adorning the walls. The atmosphere appears lively and inviting, suggesting a welcoming dining experience.\n\nCaption: \"Delicious chicken and waffles at this charming restaurant.\""
+                        },
+                        "finish_reason": "stop"
+                    }
+                ],
+                "created": 1778953865,
+                "model_version": "4.0.0",
+                "created_at": "2026-05-16T17:51:07.329Z",
+                "usage": {
+                    "completion_tokens": 137,
+                    "prompt_tokens": 2517,
+                    "total_tokens": 2654
+                },
+                "system": {
+                    "warnings": [
+                        {
+                            "message": "This model is a Non-IBM Product governed by a third-party license that may impose use restrictions and other obligations. By using this model you agree to its terms as identified in the following URL.",
+                            "id": "disclaimer_warning",
+                            "more_info": "https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx"
+                        },
+                        {
+                            "message": "The value of 'max_tokens' for this model was set to value 1024",
+                            "id": "unspecified_max_token",
+                            "additional_properties": {
+                                "limit": 0,
+                                "new_value": 1024,
+                                "parameter": "max_tokens",
+                                "value": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]
