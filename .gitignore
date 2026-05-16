@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files (Python execution artifacts)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Virtual Environments (Crucial to block from pushing)
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints and formatting caches
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Operating System files
+.DS_Store
+.DS_Store?
+Thmubs.db
+Ehthumbs.db
+desktop.ini
+
+# Environment variables, credentials, and API tokens (Security)
+.env
+.env.local
+.secret
+credentials.json
+
+# Large data files and storage (Prevents Git from choking on huge files)
+*.jsonld
+*.csv
+*.xlsx
+*.pickle
+*.pkl
+*.db
+*.sqlite3
+
+# If you specifically need to keep 'structured_restaurant_data.json', 
+# but want to ignore all other raw data, uncomment the line below:
+# !structured_restaurant_data.json
