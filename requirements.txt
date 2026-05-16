@@ -1,3 +1,5 @@
 numpy==2.3.4
 matplotlib==3.10.7
 ibm-watsonx-ai==1.4.7
+ibm-watsonx-ai==1.4.7 
+pydantic==2.12.4
