@@ -41,3 +41,5 @@ credentials.json
 # If you specifically need to keep 'structured_restaurant_data.json', 
 # but want to ignore all other raw data, uncomment the line below:
 # !structured_restaurant_data.json
+
+.*png
