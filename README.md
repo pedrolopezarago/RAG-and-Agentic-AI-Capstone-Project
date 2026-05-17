@@ -36,7 +36,10 @@ This module implements a Multimodal Retrieval-Augmented Generation (RAG) system 
 It's possible some of the labs on this module don't work as expected as they were run on IBM Skills Build cloud environment.
 
 ### Module 3: Combine Agents into a Multi-Agent System
-Not completed yet
+Rather than relying on a single decision-making process, in this module a multi-agent system is desinged, where each agent is responsible for a specific aspect of the recommendation workflow. These agents will work together to transform raw retrieval outputs into meaningful, personalized recommendations.
+
+In this module six specialized agents are defined, each with a distinct role in the recommendation pipeline, forming the foundation for a collaborative, agent-driven system.
+
 ### Module 4: Integrate Agents, RAG, and Tools with MCP
 Not completed yet
 
