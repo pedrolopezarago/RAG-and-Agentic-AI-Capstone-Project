@@ -41,10 +41,7 @@ Rather than relying on a single decision-making process, in this module a multi-
 In this module six specialized agents are defined, each with a distinct role in the recommendation pipeline, forming the foundation for a collaborative, agent-driven system.
 
 ### Module 4: Integrate Agents, RAG, and Tools with MCP
-Not completed yet
-
-### Module 5: Final Project and Course Wrap-Up
-Not completed yet
+In this module, everything is brought together to build a full MCP application that delivers AI-powered restaurant recommendations.
 
 ## Repository Structure
 
@@ -54,7 +51,7 @@ rag-agentic-ai-capstone/
 ├── module-2/
 ├── module-3/
 ├── module-4/
-├── module-5/
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── requirements.txt
